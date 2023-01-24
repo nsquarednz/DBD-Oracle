@@ -14,3 +14,5 @@ oci8.o
 DBD-Oracle*
 project.vim
 cpanfile
+deploy
+pkg/rpms
